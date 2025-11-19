@@ -3,7 +3,7 @@ import { defineConfig } from "astro/config";
 // https://astro.build/config
 export default defineConfig({
     site: 'https://KeanuPlysier3.github.io',
-    base: '/cck/',
+    base: '/web3-cck/',
 });
 
 
